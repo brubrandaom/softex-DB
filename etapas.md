@@ -19,3 +19,6 @@ Ao final, o resultado de um projeto lógico é um esquema do banco de dados pare
 
 O Projeto Físico é a parte final do projeto de banco de dado, nesta etapa define-se detalhes técnicos da implementação do banco de dados, por exemplo a forma como os dados serão armazenados, os scripts para a criação dos objetos no banco de dados (tabelas, visões, colunas, funções, ...), permissão de acesso de usuário, etc. Esta etapa é fortemente ligada ao SGBD que será utilizado. A otimização de desempenho do banco de dados é trabalhada nesta fase do projeto.
 
+*Fonte*
+<br>
+https://dicasdeprogramacao.com.br/como-criar-um-projeto-de-banco-de-dados/
